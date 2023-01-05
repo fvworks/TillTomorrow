@@ -92,4 +92,4 @@ and the actions taken to address it.
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us email at fvworkds@hotmail.com.
+Should you have other questions or concerns about these privacy policies, please send us email at fvworks@hotmail.com.
