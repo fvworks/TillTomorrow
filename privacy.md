@@ -70,7 +70,7 @@ You have a right to access, modify, correct and request that we internally delet
 If you update, modify or correct any Personal Information, we may keep copies of your Personal Information prior to such update, 
 modification or correction for uses provided for in this Policy. 
 You may update, modify or correct your Personal Information via your account Preferences. 
-Alternatively, you may contact support@heyo.com for updates, modifications and corrections to your Personal Information, 
+Alternatively, you may contact support@fvworks.com for updates, modifications and corrections to your Personal Information, 
 or to request access to your Personal Information.
 
 ### Retention Of Your Personal Information. 
@@ -92,4 +92,4 @@ and the actions taken to address it.
 
 ## How to Contact Us
 
-Should you have other questions or concerns about these privacy policies, please send us email at arkiner@hotmail.com.
+Should you have other questions or concerns about these privacy policies, please send us email at fvworkds@hotmail.com.
